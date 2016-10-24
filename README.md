@@ -6,7 +6,7 @@ The source code that powers the “Internet of Things” (IoT) botnet responsibl
 
 The leak of the source code was announced Friday on the English-language hacking community Hackforums.( Leaked on http://hackforums.net/showthread.php?tid=5420472) The malware, dubbed “Mirai,” spreads to vulnerable devices by continuously scanning the Internet for IoT systems protected by factory default or hard-coded usernames and passwords.
 
-Forum Post:
+# Forum Post:
 
 
 [FREE] World's Largest Net:Mirai Botnet, Client, Echo Loader, CNC source code release - Anna-senpai - 09-30-2016 11:50 AM
